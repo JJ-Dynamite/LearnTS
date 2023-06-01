@@ -2,7 +2,7 @@
 Here are some examples to help illustrate the concepts of static type system, interfaces, classes, and generics in TypeScript:
 
 **Static Type System:**
-TypeScript's type system is a static type system, meaning that the types are checked at compile time rather than runtime ³. This means that the TypeScript compiler can detect many common programming errors before the program is ever run ³.
+TypeScript's type system is a static type system, meaning that the types are checked at compile time rather than runtime . This means that the TypeScript compiler can detect many common programming errors before the program is ever run .
 
 For example:
 ```typescript
